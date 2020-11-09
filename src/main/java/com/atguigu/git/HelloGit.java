@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("更新2");
 		System.out.println("更新3");
 		System.out.println("创建分支");
+		System.out.println("第二次提交之前更新");
 		
 	}
 
